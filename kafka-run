@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd "put kafka installation here"
+./bin/kafka-server-start.sh config/server.properties
